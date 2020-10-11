@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1602417826 source:c:\users\sagar chaurasia\desktop\11 oct\books management\books management\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+
